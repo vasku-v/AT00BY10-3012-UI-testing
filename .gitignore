@@ -1,0 +1,19 @@
+# Node & npm
+node_modules/
+package-lock.json
+
+# environment files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# editor & IDE settings
+.vscode/
+.idea/
+
+# logs and temporary files
+*.log
+*.tmp
